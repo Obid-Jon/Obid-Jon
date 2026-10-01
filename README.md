@@ -46,26 +46,6 @@ and RAG systems.
 
 ---
 
-### 📌 Featured Projects
-
-**[Tree Crown Detection](https://github.com/Obid-Jon/tree-detection)**  
-Mask R-CNN для детекции крон деревьев на спутниковых снимках сверхвысокого разрешения.  
-Кастомные Dataset/DataLoader для геоданных 50+ ГБ. Оптимизация инференса: 2.5с → 0.8с на CPU.
-
-**[Forest Segmentation](https://github.com/Obid-Jon/forest-segmentation)**  
-Сегментация лесных рубок на PyTorch (U-Net, Attention U-Net, MaskFormer). IoU 0.94.  
-30+ экспериментов с логированием в MLflow.
-
-**[Chem Reaction Prediction](https://github.com/Obid-Jon/chem-reaction-prediction)**  
-XGBoost для прогноза выхода химической реакции. R² = 0.92.  
-50 000+ записей технологических данных.
-
-**[RAG System](https://github.com/Obid-Jon/rag-langchain-faiss)**  
-RAG-система на LangChain + FAISS с ReAct-агентом на LangGraph.  
-Оценка качества через LLM-as-a-judge.
-
----
-
 ### 📊 GitHub Stats
 
 ![Obid-Jon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Obid-Jon&show_icons=true&theme=default&hide_border=true)
